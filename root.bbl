@@ -1,0 +1,1289 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\BCAY{Adel, {Vu},\ \BBA\ {Schultz}}{Adel
+  et~al.}{2013}]{adel2013combination}
+Adel, H., {Vu}, N.~T., \BBA\ {Schultz}, T. \BBOP2013\BBCP.
+\newblock \BBOQ Combination of {Recurrent} {Neural} {Networks} and {Factored}
+  {Language} {Models} for {Code}-{Switching} {Language} {Modeling}\BBCQ\
+\newblock In {\Bem Proceedings of the 51st {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 206--211, Sofia, {Bulgaria}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ando\ \BBA\ {Zhang}}{Ando\ \BBA\
+  {Zhang}}{2005a}]{ando2005highperformance}
+Ando, R.\BBACOMMA\  \BBA\ {Zhang}, T. \BBOP2005a\BBCP.
+\newblock \BBOQ {A} {High}-{Performance} {Semi}-{Supervised} {Learning}
+  {Method} for {Text} {Chunking}\BBCQ\
+\newblock In {\Bem Proceedings of the 43rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({ACL}'05)}, \BPGS\ 1--9, Ann
+  {Arbor}, {Michigan}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ando\ \BBA\ {Zhang}}{Ando\ \BBA\
+  {Zhang}}{2005b}]{ando2005framework}
+Ando, R.~K.\BBACOMMA\  \BBA\ {Zhang}, T. \BBOP2005b\BBCP.
+\newblock \BBOQ {A} framework for learning predictive structures from multiple
+  tasks and unlabeled data\BBCQ\
+\newblock {\Bem The {Journal} of {Machine} {Learning} {Research}}, {\Bem 6},
+  1817--1853.
+
+\bibitem[\protect\BCAY{Auli, {Galley}, {Quirk},\ \BBA\ {Zweig}}{Auli
+  et~al.}{2013}]{auli2013joint}
+Auli, M., {Galley}, M., {Quirk}, C., \BBA\ {Zweig}, G. \BBOP2013\BBCP.
+\newblock \BBOQ Joint {Language} and {Translation} {Modeling} with {Recurrent}
+  {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2013 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1044--1054, Seattle,
+  {Washington}, {USA}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Auli\ \BBA\ {Gao}}{Auli\ \BBA\
+  {Gao}}{2014}]{auli2014decoder}
+Auli, M.\BBACOMMA\  \BBA\ {Gao}, J. \BBOP2014\BBCP.
+\newblock \BBOQ Decoder {Integration} and {Expected} {BLEU} {Training} for
+  {Recurrent} {Neural} {Network} {Language} {Models}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 136--142, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ballesteros, {Dyer},\ \BBA\ {Smith}}{Ballesteros
+  et~al.}{2015}]{ballesteros2015improved}
+Ballesteros, M., {Dyer}, C., \BBA\ {Smith}, N.~A. \BBOP2015\BBCP.
+\newblock \BBOQ Improved {Transition}-based {Parsing} by {Modeling}
+  {Characters} instead of {Words} with {LSTMs}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 349--359, Lisbon,
+  {Portugal}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Bansal, {Gimpel},\ \BBA\ {Livescu}}{Bansal
+  et~al.}{2014}]{bansal2014tailoring}
+Bansal, M., {Gimpel}, K., \BBA\ {Livescu}, K. \BBOP2014\BBCP.
+\newblock \BBOQ Tailoring {Continuous} {Word} {Representations} for
+  {Dependency} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 809--815, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Baydin, {Pearlmutter}, {Radul},\ \BBA\ {Siskind}}{Baydin
+  et~al.}{2015}]{baydin2015automatic}
+Baydin, A.~G., {Pearlmutter}, B.~A., {Radul}, A.~A., \BBA\ {Siskind}, J.~M.
+  \BBOP2015\BBCP.
+\newblock \BBOQ Automatic differentiation in machine learning: a survey\BBCQ\
+\newblock {\Bem {arXiv}:1502.05767 {[}cs]}.
+
+\bibitem[\protect\BCAY{Bengio}{Bengio}{2012}]{bengio2012practical}
+Bengio, Y. \BBOP2012\BBCP.
+\newblock \BBOQ Practical recommendations for gradient-based training of deep
+  architectures\BBCQ\
+\newblock {\Bem {arXiv}:1206.5533 {[}cs]}.
+
+\bibitem[\protect\BCAY{Bengio, {Ducharme}, {Vincent},\ \BBA\ {Janvin}}{Bengio
+  et~al.}{2003}]{bengio2003neural}
+Bengio, Y., {Ducharme}, R., {Vincent}, P., \BBA\ {Janvin}, C. \BBOP2003\BBCP.
+\newblock \BBOQ {A} {Neural} {Probabilistic} {Language} {Model}\BBCQ\
+\newblock {\Bem {J}. {Mach}. {Learn}. {Res}.}, {\Bem 3}, 1137--1155.
+
+\bibitem[\protect\BCAY{Bengio, {Goodfellow},\ \BBA\ {Courville}}{Bengio
+  et~al.}{2015}]{bengio2015deep}
+Bengio, Y., {Goodfellow}, I.~J., \BBA\ {Courville}, A. \BBOP2015\BBCP.
+\newblock \BBOQ Deep {Learning}\BBCQ\
+\newblock Book in preparation for MIT Press.
+
+\bibitem[\protect\BCAY{Bitvai\ \BBA\ {Cohn}}{Bitvai\ \BBA\
+  {Cohn}}{2015}]{bitvai2015nonlinear}
+Bitvai, Z.\BBACOMMA\  \BBA\ {Cohn}, T. \BBOP2015\BBCP.
+\newblock \BBOQ Non-{Linear} {Text} {Regression} with a {Deep} {Convolutional}
+  {Neural} {Network}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 180--185, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Botha\ \BBA\ {Blunsom}}{Botha\ \BBA\
+  {Blunsom}}{2014}]{botha2014compositional}
+Botha, J.~A.\BBACOMMA\  \BBA\ {Blunsom}, P. \BBOP2014\BBCP.
+\newblock \BBOQ Compositional {Morphology} for {Word} {Representations} and
+  {Language} {Modelling}\BBCQ\
+\newblock In {\Bem Proceedings of the 31st {International} {Conference} on
+  {Machine} {Learning} ({ICML})}, Beijing, {China}.
+\newblock *Award for best application paper*.
+
+\bibitem[\protect\BCAY{Bottou}{Bottou}{2012}]{bottou2012stochastic}
+Bottou, L. \BBOP2012\BBCP.
+\newblock \BBOQ Stochastic gradient descent tricks\BBCQ\
+\newblock In {\Bem Neural {Networks}: {Tricks} of the {Trade}}, \BPGS\
+  421--436. Springer.
+
+\bibitem[\protect\BCAY{Charniak\ \BBA\ {Johnson}}{Charniak\ \BBA\
+  {Johnson}}{2005}]{charniak2005coarsetofine}
+Charniak, E.\BBACOMMA\  \BBA\ {Johnson}, M. \BBOP2005\BBCP.
+\newblock \BBOQ Coarse-to-{Fine} n-{Best} {Parsing} and {MaxEnt}
+  {Discriminative} {Reranking}\BBCQ\
+\newblock In {\Bem Proceedings of the 43rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({ACL}'05)}, \BPGS\ 173--180,
+  Ann {Arbor}, {Michigan}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Chen\ \BBA\ {Manning}}{Chen\ \BBA\
+  {Manning}}{2014}]{chen2014fast}
+Chen, D.\BBACOMMA\  \BBA\ {Manning}, C. \BBOP2014\BBCP.
+\newblock \BBOQ {A} {Fast} and {Accurate} {Dependency} {Parser} using {Neural}
+  {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 740--750,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Chen, {Xu}, {Liu}, {Zeng},\ \BBA\ {Zhao}}{Chen
+  et~al.}{2015}]{chen2015event}
+Chen, Y., {Xu}, L., {Liu}, K., {Zeng}, D., \BBA\ {Zhao}, J. \BBOP2015\BBCP.
+\newblock \BBOQ Event {Extraction} via {Dynamic} {Multi}-{Pooling}
+  {Convolutional} {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 167--176, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Cho, {van Merrienboer}, {Bahdanau},\ \BBA\ {Bengio}}{Cho
+  et~al.}{2014a}]{cho2014properties}
+Cho, K., {van Merrienboer}, B., {Bahdanau}, D., \BBA\ {Bengio}, Y.
+  \BBOP2014a\BBCP.
+\newblock \BBOQ On the {Properties} of {Neural} {Machine} {Translation}:
+  {Encoder}{\textendash}{Decoder} {Approaches}\BBCQ\
+\newblock In {\Bem Proceedings of {SSST}-8, {Eighth} {Workshop} on {Syntax},
+  {Semantics} and {Structure} in {Statistical} {Translation}}, \BPGS\ 103--111,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Cho, {van Merrienboer}, {Gulcehre}, {Bahdanau},
+  {Bougares}, {Schwenk},\ \BBA\ {Bengio}}{Cho et~al.}{2014b}]{cho2014learning}
+Cho, K., {van Merrienboer}, B., {Gulcehre}, C., {Bahdanau}, D., {Bougares}, F.,
+  {Schwenk}, H., \BBA\ {Bengio}, Y. \BBOP2014b\BBCP.
+\newblock \BBOQ Learning {Phrase} {Representations} using {RNN}
+  {Encoder}{\textendash}{Decoder} for {Statistical} {Machine}
+  {Translation}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 1724--1734,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Chrupala}{Chrupala}{2014}]{chrupala2014normalizing}
+Chrupala, G. \BBOP2014\BBCP.
+\newblock \BBOQ Normalizing tweets with edit scripts and recurrent neural
+  embeddings\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 680--686, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Chung, {Gulcehre}, {Cho},\ \BBA\ {Bengio}}{Chung
+  et~al.}{2014}]{chung2014empirical}
+Chung, J., {Gulcehre}, C., {Cho}, K., \BBA\ {Bengio}, Y. \BBOP2014\BBCP.
+\newblock \BBOQ Empirical {Evaluation} of {Gated} {Recurrent} {Neural}
+  {Networks} on {Sequence} {Modeling}\BBCQ\
+\newblock {\Bem {arXiv}:1412.3555 {[}cs]}.
+
+\bibitem[\protect\BCAY{Collins}{Collins}{2002}]{collins2002discriminative}
+Collins, M. \BBOP2002\BBCP.
+\newblock \BBOQ Discriminative {Training} {Methods} for {Hidden} {Markov}
+  {Models}: {Theory} and {Experiments} with {Perceptron} {Algorithms}\BBCQ\
+\newblock In {\Bem Proceedings of the 2002 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1--8. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Collins\ \BBA\ {Koo}}{Collins\ \BBA\
+  {Koo}}{2005}]{collins2005discriminative}
+Collins, M.\BBACOMMA\  \BBA\ {Koo}, T. \BBOP2005\BBCP.
+\newblock \BBOQ Discriminative {Reranking} for {Natural} {Language}
+  {Parsing}\BBCQ\
+\newblock {\Bem Computational {Linguistics}}, {\Bem 31\/}(1), 25--70.
+
+\bibitem[\protect\BCAY{Collobert\ \BBA\ {Weston}}{Collobert\ \BBA\
+  {Weston}}{2008}]{collobert2008unified}
+Collobert, R.\BBACOMMA\  \BBA\ {Weston}, J. \BBOP2008\BBCP.
+\newblock \BBOQ {A} unified architecture for natural language processing:
+  {Deep} neural networks with multitask learning\BBCQ\
+\newblock In {\Bem Proceedings of the 25th international conference on
+  {Machine} learning}, \BPGS\ 160--167. {ACM}.
+
+\bibitem[\protect\BCAY{Collobert, {Weston}, {Bottou}, {Karlen}, {Kavukcuoglu},\
+  \BBA\ {Kuksa}}{Collobert et~al.}{2011}]{collobert2011natural}
+Collobert, R., {Weston}, J., {Bottou}, L., {Karlen}, M., {Kavukcuoglu}, K.,
+  \BBA\ {Kuksa}, P. \BBOP2011\BBCP.
+\newblock \BBOQ Natural language processing (almost) from scratch\BBCQ\
+\newblock {\Bem The {Journal} of {Machine} {Learning} {Research}}, {\Bem 12},
+  2493--2537.
+
+\bibitem[\protect\BCAY{Crammer\ \BBA\ {Singer}}{Crammer\ \BBA\
+  {Singer}}{2002}]{crammer2002algorithmic}
+Crammer, K.\BBACOMMA\  \BBA\ {Singer}, Y. \BBOP2002\BBCP.
+\newblock \BBOQ On the algorithmic implementation of multiclass kernel-based
+  vector machines\BBCQ\
+\newblock {\Bem The {Journal} of {Machine} {Learning} {Research}}, {\Bem 2},
+  265--292.
+
+\bibitem[\protect\BCAY{Creutz\ \BBA\ {Lagus}}{Creutz\ \BBA\
+  {Lagus}}{2007}]{creutz2007unsupervised}
+Creutz, M.\BBACOMMA\  \BBA\ {Lagus}, K. \BBOP2007\BBCP.
+\newblock \BBOQ Unsupervised {Models} for {Morpheme} {Segmentation} and
+  {Morphology} {Learning}\BBCQ\
+\newblock {\Bem {ACM} {Trans}. {Speech} {Lang}. {Process}.}, {\Bem 4\/}(1),
+  3:1--3:34.
+
+\bibitem[\protect\BCAY{Cybenko}{Cybenko}{1989}]{cybenko1989approximation}
+Cybenko, G. \BBOP1989\BBCP.
+\newblock \BBOQ Approximation by superpositions of a sigmoidal function\BBCQ\
+\newblock {\Bem Mathematics of {Control}, {Signals} and {Systems}}, {\Bem
+  2\/}(4), 303--314.
+
+\bibitem[\protect\BCAY{Dahl, {Sainath},\ \BBA\ {Hinton}}{Dahl
+  et~al.}{2013}]{dahl2013improving}
+Dahl, G., {Sainath}, T., \BBA\ {Hinton}, G. \BBOP2013\BBCP.
+\newblock \BBOQ Improving deep neural networks for {LVCSR} using rectified
+  linear units and dropout\BBCQ\
+\newblock In {\Bem 2013 {IEEE} {International} {Conference} on {Acoustics},
+  {Speech} and {Signal} {Processing} ({ICASSP})}, \BPGS\ 8609--8613.
+
+\bibitem[\protect\BCAY{{de Gispert}, {Iglesias},\ \BBA\ {Byrne}}{{de Gispert}
+  et~al.}{2015}]{degispert2015fast}
+{de Gispert}, A., {Iglesias}, G., \BBA\ {Byrne}, B. \BBOP2015\BBCP.
+\newblock \BBOQ Fast and {Accurate} {Preordering} for {SMT} using {Neural}
+  {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} of the {North}
+  {American} {Chapter} of the {Association} for {Computational} {Linguistics}:
+  {Human} {Language} {Technologies}}, \BPGS\ 1012--1017, Denver, {Colorado}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Dong, {Wei}, {Tan}, {Tang}, {Zhou},\ \BBA\ {Xu}}{Dong
+  et~al.}{2014}]{dong2014adaptive}
+Dong, L., {Wei}, F., {Tan}, C., {Tang}, D., {Zhou}, M., \BBA\ {Xu}, K.
+  \BBOP2014\BBCP.
+\newblock \BBOQ Adaptive {Recursive} {Neural} {Network} for {Target}-dependent
+  {Twitter} {Sentiment} {Classification}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 49--54, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Dong, {Wei}, {Zhou},\ \BBA\ {Xu}}{Dong
+  et~al.}{2015}]{dong2015question}
+Dong, L., {Wei}, F., {Zhou}, M., \BBA\ {Xu}, K. \BBOP2015\BBCP.
+\newblock \BBOQ Question {Answering} over {Freebase} with {Multi}-{Column}
+  {Convolutional} {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 260--269, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{dos {Santos}\ \BBA\ {Gatti}}{dos {Santos}\ \BBA\
+  {Gatti}}{2014}]{dossantos2014deep}
+dos {Santos}, C.\BBACOMMA\  \BBA\ {Gatti}, M. \BBOP2014\BBCP.
+\newblock \BBOQ Deep {Convolutional} {Neural} {Networks} for {Sentiment}
+  {Analysis} of {Short} {Texts}\BBCQ\
+\newblock In {\Bem Proceedings of {COLING} 2014, the 25th {International}
+  {Conference} on {Computational} {Linguistics}: {Technical} {Papers}}, \BPGS\
+  69--78, Dublin, {Ireland}. Dublin {City} {University} and {Association} for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{dos {Santos}, {Xiang},\ \BBA\ {Zhou}}{dos {Santos}
+  et~al.}{2015}]{dossantos2015classifying}
+dos {Santos}, C., {Xiang}, B., \BBA\ {Zhou}, B. \BBOP2015\BBCP.
+\newblock \BBOQ Classifying {Relations} by {Ranking} with {Convolutional}
+  {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 626--634, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Duchi, {Hazan},\ \BBA\ {Singer}}{Duchi
+  et~al.}{2011}]{duchi2011adaptive}
+Duchi, J., {Hazan}, E., \BBA\ {Singer}, Y. \BBOP2011\BBCP.
+\newblock \BBOQ Adaptive subgradient methods for online learning and stochastic
+  optimization\BBCQ\
+\newblock {\Bem The {Journal} of {Machine} {Learning} {Research}}, {\Bem 12},
+  2121--2159.
+
+\bibitem[\protect\BCAY{Duh, {Neubig}, {Sudoh},\ \BBA\ {Tsukada}}{Duh
+  et~al.}{2013}]{duh2013adaptation}
+Duh, K., {Neubig}, G., {Sudoh}, K., \BBA\ {Tsukada}, H. \BBOP2013\BBCP.
+\newblock \BBOQ Adaptation {Data} {Selection} using {Neural} {Language}
+  {Models}: {Experiments} in {Machine} {Translation}\BBCQ\
+\newblock In {\Bem Proceedings of the 51st {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 678--683, Sofia, {Bulgaria}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Durrett\ \BBA\ {Klein}}{Durrett\ \BBA\
+  {Klein}}{2015}]{durrett2015neural}
+Durrett, G.\BBACOMMA\  \BBA\ {Klein}, D. \BBOP2015\BBCP.
+\newblock \BBOQ Neural {CRF} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 302--312, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Dyer, {Ballesteros}, {Ling}, {Matthews},\ \BBA\
+  {Smith}}{Dyer et~al.}{2015}]{dyer2015transitionbased}
+Dyer, C., {Ballesteros}, M., {Ling}, W., {Matthews}, A., \BBA\ {Smith}, N.~A.
+  \BBOP2015\BBCP.
+\newblock \BBOQ Transition-{Based} {Dependency} {Parsing} with {Stack} {Long}
+  {Short}-{Term} {Memory}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 334--343, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Elman}{Elman}{1990}]{elman1990finding}
+Elman, J.~L. \BBOP1990\BBCP.
+\newblock \BBOQ Finding {Structure} in {Time}\BBCQ\
+\newblock {\Bem Cognitive {Science}}, {\Bem 14\/}(2), 179--211.
+
+\bibitem[\protect\BCAY{Faruqui\ \BBA\ {Dyer}}{Faruqui\ \BBA\
+  {Dyer}}{2014}]{faruqui2014improving}
+Faruqui, M.\BBACOMMA\  \BBA\ {Dyer}, C. \BBOP2014\BBCP.
+\newblock \BBOQ Improving {Vector} {Space} {Word} {Representations} {Using}
+  {Multilingual} {Correlation}\BBCQ\
+\newblock In {\Bem Proceedings of the 14th {Conference} of the {European}
+  {Chapter} of the {Association} for {Computational} {Linguistics}}, \BPGS\
+  462--471, Gothenburg, {Sweden}. Association for {Computational}
+  {Linguistics}.
+
+\bibitem[\protect\BCAY{Filippova, {Alfonseca}, {Colmenares}, {Kaiser},\ \BBA\
+  {Vinyals}}{Filippova et~al.}{2015}]{filippova2015sentence}
+Filippova, K., {Alfonseca}, E., {Colmenares}, C.~A., {Kaiser}, L., \BBA\
+  {Vinyals}, O. \BBOP2015\BBCP.
+\newblock \BBOQ Sentence {Compression} by {Deletion} with {LSTMs}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 360--368, Lisbon,
+  {Portugal}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Gal\ \BBA\ {Ghahramani}}{Gal\ \BBA\
+  {Ghahramani}}{2015}]{gal2015dropout}
+Gal, Y.\BBACOMMA\  \BBA\ {Ghahramani}, Z. \BBOP2015\BBCP.
+\newblock \BBOQ Dropout as a {Bayesian} {Approximation}: {Representing} {Model}
+  {Uncertainty} in {Deep} {Learning}\BBCQ\
+\newblock {\Bem {arXiv}:1506.02142 {[}cs, stat]}.
+
+\bibitem[\protect\BCAY{Gao, {Pantel}, {Gamon}, {He},\ \BBA\ {Deng}}{Gao
+  et~al.}{2014}]{gao2014modeling}
+Gao, J., {Pantel}, P., {Gamon}, M., {He}, X., \BBA\ {Deng}, L. \BBOP2014\BBCP.
+\newblock \BBOQ Modeling {Interestingness} with {Deep} {Neural}
+  {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 2--13,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Gim{\'e}nez\ \BBA\ {M}{\`a}rquez}{Gim{\'e}nez\ \BBA\
+  {M}{\`a}rquez}{2004}]{gimenez2004svmtool}
+Gim{\'e}nez, J.\BBACOMMA\  \BBA\ {M}{\`a}rquez, L. \BBOP2004\BBCP.
+\newblock \BBOQ {SVMTool}: {A} general {POS} tagger generator based on
+  {Support} {Vector} {Machines}\BBCQ\
+\newblock In {\Bem Proceedings of the 4th {LREC}}, Lisbon, {Portugal}.
+
+\bibitem[\protect\BCAY{Glorot\ \BBA\ {Bengio}}{Glorot\ \BBA\
+  {Bengio}}{2010}]{glorot2010understanding}
+Glorot, X.\BBACOMMA\  \BBA\ {Bengio}, Y. \BBOP2010\BBCP.
+\newblock \BBOQ Understanding the difficulty of training deep feedforward
+  neural networks\BBCQ\
+\newblock In {\Bem International conference on artificial intelligence and
+  statistics}, \BPGS\ 249--256.
+
+\bibitem[\protect\BCAY{Glorot, {Bordes},\ \BBA\ {Bengio}}{Glorot
+  et~al.}{2011}]{glorot2011deep}
+Glorot, X., {Bordes}, A., \BBA\ {Bengio}, Y. \BBOP2011\BBCP.
+\newblock \BBOQ Deep sparse rectifier neural networks\BBCQ\
+\newblock In {\Bem International {Conference} on {Artificial} {Intelligence}
+  and {Statistics}}, \BPGS\ 315--323.
+
+\bibitem[\protect\BCAY{Goldberg\ \BBA\ {Elhadad}}{Goldberg\ \BBA\
+  {Elhadad}}{2010}]{goldberg2010efficient}
+Goldberg, Y.\BBACOMMA\  \BBA\ {Elhadad}, M. \BBOP2010\BBCP.
+\newblock \BBOQ An {Efficient} {Algorithm} for {Easy}-{First}
+  {Non}-{Directional} {Dependency} {Parsing}\BBCQ\
+\newblock In {\Bem Human {Language} {Technologies}: {The} 2010 {Annual}
+  {Conference} of the {North} {American} {Chapter} of the {Association} for
+  {Computational} {Linguistics}}, \BPGS\ 742--750, Los {Angeles}, {California}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Goldberg\ \BBA\ {Levy}}{Goldberg\ \BBA\
+  {Levy}}{2014}]{goldberg2014word2vec}
+Goldberg, Y.\BBACOMMA\  \BBA\ {Levy}, O. \BBOP2014\BBCP.
+\newblock \BBOQ word2vec {Explained}: deriving {Mikolov} et al.'s
+  negative-sampling word-embedding method\BBCQ\
+\newblock {\Bem {arXiv}:1402.3722 {[}cs, stat]}.
+
+\bibitem[\protect\BCAY{Goldberg\ \BBA\ {Nivre}}{Goldberg\ \BBA\
+  {Nivre}}{2013}]{goldberg2013training}
+Goldberg, Y.\BBACOMMA\  \BBA\ {Nivre}, J. \BBOP2013\BBCP.
+\newblock \BBOQ Training {Deterministic} {Parsers} with {Non}-{Deterministic}
+  {Oracles}\BBCQ\
+\newblock {\Bem Transactions of the {Association} for {Computational}
+  {Linguistics}}, {\Bem 1\/}(0), 403--414.
+
+\bibitem[\protect\BCAY{Goldberg, {Zhao},\ \BBA\ {Huang}}{Goldberg
+  et~al.}{2013}]{goldberg2013efficient}
+Goldberg, Y., {Zhao}, K., \BBA\ {Huang}, L. \BBOP2013\BBCP.
+\newblock \BBOQ Efficient {Implementation} of {Beam}-{Search} {Incremental}
+  {Parsers}\BBCQ\
+\newblock In {\Bem Proceedings of the 51st {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 628--633, Sofia, {Bulgaria}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Goller\ \BBA\ {K}{\"u}chler}{Goller\ \BBA\
+  {K}{\"u}chler}{1996}]{goller1996learning}
+Goller, C.\BBACOMMA\  \BBA\ {K}{\"u}chler, A. \BBOP1996\BBCP.
+\newblock \BBOQ Learning {Task}-{Dependent} {Distributed} {Representations} by
+  {Backpropagation} {Through} {Structure}\BBCQ\
+\newblock In {\Bem In {Proc}. of the {ICNN}-96}, \BPGS\ 347--352. {IEEE}.
+
+\bibitem[\protect\BCAY{Graves}{Graves}{2008}]{graves2008supervised}
+Graves, A. \BBOP2008\BBCP.
+\newblock {\Bem Supervised sequence labelling with recurrent neural networks}.
+\newblock Ph.D.\ thesis, Technische {Universit}{\"a}t {M}{\"u}nchen.
+
+\bibitem[\protect\BCAY{Greff, {Srivastava}, {Koutn}{\'\i}k, {Steunebrink},\
+  \BBA\ {Schmidhuber}}{Greff et~al.}{2015}]{greff2015lstm}
+Greff, K., {Srivastava}, R.~K., {Koutn}{\'\i}k, J., {Steunebrink}, B.~R., \BBA\
+  {Schmidhuber}, J. \BBOP2015\BBCP.
+\newblock \BBOQ {LSTM}: {A} {Search} {Space} {Odyssey}\BBCQ\
+\newblock {\Bem {arXiv}:1503.04069 {[}cs]}.
+
+\bibitem[\protect\BCAY{{Hal Daum{\'e} III}, {Langford},\ \BBA\ {Marcu}}{{Hal
+  Daum{\'e} III} et~al.}{2009}]{daume09searn}
+{Hal Daum{\'e} III}, {Langford}, J., \BBA\ {Marcu}, D. \BBOP2009\BBCP.
+\newblock \BBOQ Search-based {Structured} {Prediction}\BBCQ\
+\newblock {\Bem Machine {Learning} {Journal} ({MLJ})}.
+
+\bibitem[\protect\BCAY{Harris}{Harris}{1954}]{harris1954distributional}
+Harris, Z. \BBOP1954\BBCP.
+\newblock \BBOQ Distributional {Structure}\BBCQ\
+\newblock {\Bem Word}, {\Bem 10\/}(23), 146--162.
+
+\bibitem[\protect\BCAY{Hashimoto, {Miwa}, {Tsuruoka},\ \BBA\
+  {Chikayama}}{Hashimoto et~al.}{2013}]{hashimoto2013simple}
+Hashimoto, K., {Miwa}, M., {Tsuruoka}, Y., \BBA\ {Chikayama}, T.
+  \BBOP2013\BBCP.
+\newblock \BBOQ Simple {Customization} of {Recursive} {Neural} {Networks} for
+  {Semantic} {Relation} {Classification}\BBCQ\
+\newblock In {\Bem Proceedings of the 2013 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1372--1376, Seattle,
+  {Washington}, {USA}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{He, {Zhang}, {Ren},\ \BBA\ {Sun}}{He
+  et~al.}{2015}]{he2015delving}
+He, K., {Zhang}, X., {Ren}, S., \BBA\ {Sun}, J. \BBOP2015\BBCP.
+\newblock \BBOQ Delving {Deep} into {Rectifiers}: {Surpassing} {Human}-{Level}
+  {Performance} on {ImageNet} {Classification}\BBCQ\
+\newblock {\Bem {arXiv}:1502.01852 {[}cs]}.
+
+\bibitem[\protect\BCAY{Henderson, {Thomson},\ \BBA\ {Young}}{Henderson
+  et~al.}{2013}]{henderson2013deep}
+Henderson, M., {Thomson}, B., \BBA\ {Young}, S. \BBOP2013\BBCP.
+\newblock \BBOQ Deep {Neural} {Network} {Approach} for the {Dialog} {State}
+  {Tracking} {Challenge}\BBCQ\
+\newblock In {\Bem Proceedings of the {SIGDIAL} 2013 {Conference}}, \BPGS\
+  467--471, Metz, {France}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Hermann\ \BBA\ {Blunsom}}{Hermann\ \BBA\
+  {Blunsom}}{2013}]{hermann2013role}
+Hermann, K.~M.\BBACOMMA\  \BBA\ {Blunsom}, P. \BBOP2013\BBCP.
+\newblock \BBOQ The {Role} of {Syntax} in {Vector} {Space} {Models} of
+  {Compositional} {Semantics}\BBCQ\
+\newblock In {\Bem Proceedings of the 51st {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 894--904, Sofia, {Bulgaria}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Hermann\ \BBA\ {Blunsom}}{Hermann\ \BBA\
+  {Blunsom}}{2014}]{hermann2014multilingual}
+Hermann, K.~M.\BBACOMMA\  \BBA\ {Blunsom}, P. \BBOP2014\BBCP.
+\newblock \BBOQ Multilingual {Models} for {Compositional} {Distributed}
+  {Semantics}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 58--68, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Hihi\ \BBA\ {Bengio}}{Hihi\ \BBA\
+  {Bengio}}{1996}]{hihi1996hierarchical}
+Hihi, S.~E.\BBACOMMA\  \BBA\ {Bengio}, Y. \BBOP1996\BBCP.
+\newblock \BBOQ Hierarchical {Recurrent} {Neural} {Networks} for {Long}-{Term}
+  {Dependencies}\BBCQ\
+\newblock In Touretzky, D.~S., {Mozer}, M.~C., \BBA\ {Hasselmo}, M.~E.\BEDS,
+  {\Bem Advances in {Neural} {Information} {Processing} {Systems} 8}, \BPGS\
+  493--499. {MIT} {Press}.
+
+\bibitem[\protect\BCAY{Hinton, {Srivastava}, {Krizhevsky}, {Sutskever},\ \BBA\
+  {Salakhutdinov}}{Hinton et~al.}{2012}]{hinton2012improving}
+Hinton, G.~E., {Srivastava}, N., {Krizhevsky}, A., {Sutskever}, I., \BBA\
+  {Salakhutdinov}, R.~R. \BBOP2012\BBCP.
+\newblock \BBOQ Improving neural networks by preventing co-adaptation of
+  feature detectors\BBCQ\
+\newblock {\Bem {arXiv}:1207.0580 {[}cs]}.
+
+\bibitem[\protect\BCAY{Hochreiter\ \BBA\ {Schmidhuber}}{Hochreiter\ \BBA\
+  {Schmidhuber}}{1997}]{hochreiter1997long}
+Hochreiter, S.\BBACOMMA\  \BBA\ {Schmidhuber}, J. \BBOP1997\BBCP.
+\newblock \BBOQ Long short-term memory\BBCQ\
+\newblock {\Bem Neural computation}, {\Bem 9\/}(8), 1735--1780.
+
+\bibitem[\protect\BCAY{Hornik, {Stinchcombe},\ \BBA\ {White}}{Hornik
+  et~al.}{1989}]{hornik1989multilayer}
+Hornik, K., {Stinchcombe}, M., \BBA\ {White}, H. \BBOP1989\BBCP.
+\newblock \BBOQ Multilayer feedforward networks are universal
+  approximators\BBCQ\
+\newblock {\Bem Neural {Networks}}, {\Bem 2\/}(5), 359--366.
+
+\bibitem[\protect\BCAY{Irsoy\ \BBA\ {Cardie}}{Irsoy\ \BBA\
+  {Cardie}}{2014}]{irsoy2014opinion}
+Irsoy, O.\BBACOMMA\  \BBA\ {Cardie}, C. \BBOP2014\BBCP.
+\newblock \BBOQ Opinion {Mining} with {Deep} {Recurrent} {Neural}
+  {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 720--728,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Iyyer, {Boyd}-{Graber}, {Claudino}, {Socher},\ \BBA\
+  {Daum}{\'e} {III}}{Iyyer et~al.}{2014a}]{iyyer2014neural}
+Iyyer, M., {Boyd}-{Graber}, J., {Claudino}, L., {Socher}, R., \BBA\ {Daum}{\'e}
+  {III}, H. \BBOP2014a\BBCP.
+\newblock \BBOQ {A} {Neural} {Network} for {Factoid} {Question} {Answering}
+  over {Paragraphs}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 633--644,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Iyyer, {Enns}, {Boyd}-{Graber},\ \BBA\ {Resnik}}{Iyyer
+  et~al.}{2014b}]{iyyer2014political}
+Iyyer, M., {Enns}, P., {Boyd}-{Graber}, J., \BBA\ {Resnik}, P. \BBOP2014b\BBCP.
+\newblock \BBOQ Political {Ideology} {Detection} {Using} {Recursive} {Neural}
+  {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1113--1122, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Iyyer, {Manjunatha}, {Boyd}-{Graber},\ \BBA\ {Daum}{\'e}
+  {III}}{Iyyer et~al.}{2015}]{iyyer2015deep}
+Iyyer, M., {Manjunatha}, V., {Boyd}-{Graber}, J., \BBA\ {Daum}{\'e} {III}, H.
+  \BBOP2015\BBCP.
+\newblock \BBOQ Deep {Unordered} {Composition} {Rivals} {Syntactic} {Methods}
+  for {Text} {Classification}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1681--1691, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Johnson\ \BBA\ {Zhang}}{Johnson\ \BBA\
+  {Zhang}}{2014}]{johnson2014effective}
+Johnson, R.\BBACOMMA\  \BBA\ {Zhang}, T. \BBOP2014\BBCP.
+\newblock \BBOQ Effective {Use} of {Word} {Order} for {Text} {Categorization}
+  with {Convolutional} {Neural} {Networks}\BBCQ\
+\newblock {\Bem {arXiv}:1412.1058 {[}cs, stat]}.
+
+\bibitem[\protect\BCAY{Johnson\ \BBA\ {Zhang}}{Johnson\ \BBA\
+  {Zhang}}{2015}]{johnson2015effective}
+Johnson, R.\BBACOMMA\  \BBA\ {Zhang}, T. \BBOP2015\BBCP.
+\newblock \BBOQ Effective {Use} of {Word} {Order} for {Text} {Categorization}
+  with {Convolutional} {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} of the {North}
+  {American} {Chapter} of the {Association} for {Computational} {Linguistics}:
+  {Human} {Language} {Technologies}}, \BPGS\ 103--112, Denver, {Colorado}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Jozefowicz, {Zaremba},\ \BBA\ {Sutskever}}{Jozefowicz
+  et~al.}{2015}]{jozefowicz2015empirical}
+Jozefowicz, R., {Zaremba}, W., \BBA\ {Sutskever}, I. \BBOP2015\BBCP.
+\newblock \BBOQ An {Empirical} {Exploration} of {Recurrent} {Network}
+  {Architectures}\BBCQ\
+\newblock In {\Bem Proceedings of the 32nd {International} {Conference} on
+  {Machine} {Learning} ({ICML}-15)}, \BPGS\ 2342--2350.
+
+\bibitem[\protect\BCAY{Kalchbrenner, {Grefenstette},\ \BBA\
+  {Blunsom}}{Kalchbrenner et~al.}{2014}]{kalchbrenner2014convolutional}
+Kalchbrenner, N., {Grefenstette}, E., \BBA\ {Blunsom}, P. \BBOP2014\BBCP.
+\newblock \BBOQ {A} {Convolutional} {Neural} {Network} for {Modelling}
+  {Sentences}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 655--665, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Karpathy, {Johnson},\ \BBA\ {Li}}{Karpathy
+  et~al.}{2015}]{karpathy2015visualizing}
+Karpathy, A., {Johnson}, J., \BBA\ {Li}, F.-F. \BBOP2015\BBCP.
+\newblock \BBOQ Visualizing and {Understanding} {Recurrent} {Networks}\BBCQ\
+\newblock {\Bem {arXiv}:1506.02078 {[}cs]}.
+
+\bibitem[\protect\BCAY{Kim}{Kim}{2014}]{kim2014convolutional}
+Kim, Y. \BBOP2014\BBCP.
+\newblock \BBOQ Convolutional {Neural} {Networks} for {Sentence}
+  {Classification}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 1746--1751,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Kingma\ \BBA\ {Ba}}{Kingma\ \BBA\
+  {Ba}}{2014}]{kingma2014adam}
+Kingma, D.\BBACOMMA\  \BBA\ {Ba}, J. \BBOP2014\BBCP.
+\newblock \BBOQ Adam: {A} {Method} for {Stochastic} {Optimization}\BBCQ\
+\newblock {\Bem {arXiv}:1412.6980 {[}cs]}.
+
+\bibitem[\protect\BCAY{Krizhevsky, {Sutskever},\ \BBA\ {Hinton}}{Krizhevsky
+  et~al.}{2012}]{krizhevsky2012imagenet}
+Krizhevsky, A., {Sutskever}, I., \BBA\ {Hinton}, G.~E. \BBOP2012\BBCP.
+\newblock \BBOQ {ImageNet} {Classification} with {Deep} {Convolutional}
+  {Neural} {Networks}\BBCQ\
+\newblock In Pereira, F., {Burges}, C. J.~C., {Bottou}, L., \BBA\ {Weinberger},
+  K.~Q.\BEDS, {\Bem Advances in {Neural} {Information} {Processing} {Systems}
+  25}, \BPGS\ 1097--1105. Curran {Associates}, {Inc}.
+
+\bibitem[\protect\BCAY{Kudo\ \BBA\ {Matsumoto}}{Kudo\ \BBA\
+  {Matsumoto}}{2003}]{kudo2003fast}
+Kudo, T.\BBACOMMA\  \BBA\ {Matsumoto}, Y. \BBOP2003\BBCP.
+\newblock \BBOQ Fast {Methods} for {Kernel}-based {Text} {Analysis}\BBCQ\
+\newblock In {\Bem Proceedings of the 41st {Annual} {Meeting} on {Association}
+  for {Computational} {Linguistics} - {Volume} 1}, {ACL} '03, \BPGS\ 24--31,
+  Stroudsburg, {PA}, {USA}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Le\ \BBA\ {Zuidema}}{Le\ \BBA\
+  {Zuidema}}{2014}]{le2014insideoutside}
+Le, P.\BBACOMMA\  \BBA\ {Zuidema}, W. \BBOP2014\BBCP.
+\newblock \BBOQ The {Inside}-{Outside} {Recursive} {Neural} {Network} model for
+  {Dependency} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 729--739,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Le\ \BBA\ {Zuidema}}{Le\ \BBA\
+  {Zuidema}}{2015}]{le2015forest}
+Le, P.\BBACOMMA\  \BBA\ {Zuidema}, W. \BBOP2015\BBCP.
+\newblock \BBOQ The {Forest} {Convolutional} {Network}: {Compositional}
+  {Distributional} {Semantics} with a {Neural} {Chart} and without
+  {Binarization}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1155--1164, Lisbon,
+  {Portugal}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Le, {Jaitly},\ \BBA\ {Hinton}}{Le
+  et~al.}{2015}]{le2015simple}
+Le, Q.~V., {Jaitly}, N., \BBA\ {Hinton}, G.~E. \BBOP2015\BBCP.
+\newblock \BBOQ {A} {Simple} {Way} to {Initialize} {Recurrent} {Networks} of
+  {Rectified} {Linear} {Units}\BBCQ\
+\newblock {\Bem {arXiv}:1504.00941 {[}cs]}.
+
+\bibitem[\protect\BCAY{{LeCun}\ \BBA\ {Bengio}}{{LeCun}\ \BBA\
+  {Bengio}}{1995}]{lecun1995convolutional}
+{LeCun}, Y.\BBACOMMA\  \BBA\ {Bengio}, Y. \BBOP1995\BBCP.
+\newblock \BBOQ Convolutional {Networks} for {Images}, {Speech}, and
+  {Time}-{Series}\BBCQ\
+\newblock In Arbib, M.~A.\BED, {\Bem The {Handbook} of {Brain} {Theory} and
+  {Neural} {Networks}}. {MIT} {Press}.
+
+\bibitem[\protect\BCAY{{LeCun}, {Bottou}, {Orr},\ \BBA\ {Muller}}{{LeCun}
+  et~al.}{1998a}]{lecun1998efficient}
+{LeCun}, Y., {Bottou}, L., {Orr}, G., \BBA\ {Muller}, K. \BBOP1998a\BBCP.
+\newblock \BBOQ Efficient {BackProp}\BBCQ\
+\newblock In Orr, G.\BBACOMMA\  \BBA\ {K}, M.\BEDS, {\Bem Neural {Networks}:
+  {Tricks} of the trade}. Springer.
+
+\bibitem[\protect\BCAY{Lecun, {Bottou}, {Bengio},\ \BBA\ {Haffner}}{Lecun
+  et~al.}{1998b}]{lecun1998gradient}
+Lecun, Y., {Bottou}, L., {Bengio}, Y., \BBA\ {Haffner}, P. \BBOP1998b\BBCP.
+\newblock
+\newblock \BBOQ Gradient {Based} {Learning} {Applied} to {Pattern}
+  {Recognition}\BBCQ.
+
+\bibitem[\protect\BCAY{{LeCun}, {Chopra}, {Hadsell}, {Ranzato},\ \BBA\
+  {Huang}}{{LeCun} et~al.}{2006}]{lecun2006tutorial}
+{LeCun}, Y., {Chopra}, S., {Hadsell}, R., {Ranzato}, M., \BBA\ {Huang}, F.
+  \BBOP2006\BBCP.
+\newblock \BBOQ {A} tutorial on energy-based learning\BBCQ\
+\newblock {\Bem Predicting structured data}, {\Bem 1}, 0.
+
+\bibitem[\protect\BCAY{{LeCun}\ \BBA\ {Huang}}{{LeCun}\ \BBA\
+  {Huang}}{2005}]{lecun2005loss}
+{LeCun}, Y.\BBACOMMA\  \BBA\ {Huang}, F. \BBOP2005\BBCP.
+\newblock \BBOQ Loss functions for discriminative training of energybased
+  models\BBCQ.
+\newblock {AIStats}.
+
+\bibitem[\protect\BCAY{Levy\ \BBA\ {Goldberg}}{Levy\ \BBA\
+  {Goldberg}}{2014a}]{levy2014dependencybased}
+Levy, O.\BBACOMMA\  \BBA\ {Goldberg}, Y. \BBOP2014a\BBCP.
+\newblock \BBOQ Dependency-{Based} {Word} {Embeddings}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 2: {Short}
+  {Papers})}, \BPGS\ 302--308, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Levy\ \BBA\ {Goldberg}}{Levy\ \BBA\
+  {Goldberg}}{2014b}]{levy2014neural}
+Levy, O.\BBACOMMA\  \BBA\ {Goldberg}, Y. \BBOP2014b\BBCP.
+\newblock \BBOQ Neural {Word} {Embedding} as {Implicit} {Matrix}
+  {Factorization}\BBCQ\
+\newblock In Ghahramani, Z., {Welling}, M., {Cortes}, C., {Lawrence}, N.~D.,
+  \BBA\ {Weinberger}, K.~Q.\BEDS, {\Bem Advances in {Neural} {Information}
+  {Processing} {Systems} 27}, \BPGS\ 2177--2185. Curran {Associates}, {Inc}.
+
+\bibitem[\protect\BCAY{Levy, {Goldberg},\ \BBA\ {Dagan}}{Levy
+  et~al.}{2015}]{levy2015improving}
+Levy, O., {Goldberg}, Y., \BBA\ {Dagan}, I. \BBOP2015\BBCP.
+\newblock \BBOQ Improving {Distributional} {Similarity} with {Lessons}
+  {Learned} from {Word} {Embeddings}\BBCQ\
+\newblock {\Bem Transactions of the {Association} for {Computational}
+  {Linguistics}}, {\Bem 3\/}(0), 211--225.
+
+\bibitem[\protect\BCAY{Lewis\ \BBA\ {Steedman}}{Lewis\ \BBA\
+  {Steedman}}{2014}]{lewis2014improved}
+Lewis, M.\BBACOMMA\  \BBA\ {Steedman}, M. \BBOP2014\BBCP.
+\newblock \BBOQ Improved {CCG} {Parsing} with {Semi}-supervised
+  {Supertagging}\BBCQ\
+\newblock {\Bem Transactions of the {Association} for {Computational}
+  {Linguistics}}, {\Bem 2\/}(0), 327--338.
+
+\bibitem[\protect\BCAY{Li, {Li},\ \BBA\ {Hovy}}{Li
+  et~al.}{2014}]{li2014recursive}
+Li, J., {Li}, R., \BBA\ {Hovy}, E. \BBOP2014\BBCP.
+\newblock \BBOQ Recursive {Deep} {Models} for {Discourse} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 2061--2069,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ling, {Dyer}, {Black},\ \BBA\ {Trancoso}}{Ling
+  et~al.}{2015a}]{ling2015twotoo}
+Ling, W., {Dyer}, C., {Black}, A.~W., \BBA\ {Trancoso}, I. \BBOP2015a\BBCP.
+\newblock \BBOQ Two/{Too} {Simple} {Adaptations} of {Word2Vec} for {Syntax}
+  {Problems}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} of the {North}
+  {American} {Chapter} of the {Association} for {Computational} {Linguistics}:
+  {Human} {Language} {Technologies}}, \BPGS\ 1299--1304, Denver, {Colorado}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ling, {Dyer}, {Black}, {Trancoso}, {Fermandez}, {Amir},
+  {Marujo},\ \BBA\ {Luis}}{Ling et~al.}{2015b}]{ling2015finding}
+Ling, W., {Dyer}, C., {Black}, A.~W., {Trancoso}, I., {Fermandez}, R., {Amir},
+  S., {Marujo}, L., \BBA\ {Luis}, T. \BBOP2015b\BBCP.
+\newblock \BBOQ Finding {Function} in {Form}: {Compositional} {Character}
+  {Models} for {Open} {Vocabulary} {Word} {Representation}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1520--1530, Lisbon,
+  {Portugal}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Liu, {Wei}, {Li}, {Ji}, {Zhou},\ \BBA\ {WANG}}{Liu
+  et~al.}{2015}]{liu2015dependencybased}
+Liu, Y., {Wei}, F., {Li}, S., {Ji}, H., {Zhou}, M., \BBA\ {WANG}, H.
+  \BBOP2015\BBCP.
+\newblock \BBOQ {A} {Dependency}-{Based} {Neural} {Network} for {Relation}
+  {Classification}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 285--290, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ma, {Zhang},\ \BBA\ {Zhu}}{Ma
+  et~al.}{2014}]{ma2014tagging}
+Ma, J., {Zhang}, Y., \BBA\ {Zhu}, J. \BBOP2014\BBCP.
+\newblock \BBOQ Tagging {The} {Web}: {Building} {A} {Robust} {Web} {Tagger}
+  with {Neural} {Network}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 144--154, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Ma, {Huang}, {Zhou},\ \BBA\ {Xiang}}{Ma
+  et~al.}{2015}]{ma2015dependencybased}
+Ma, M., {Huang}, L., {Zhou}, B., \BBA\ {Xiang}, B. \BBOP2015\BBCP.
+\newblock \BBOQ Dependency-based {Convolutional} {Neural} {Networks} for
+  {Sentence} {Embedding}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 174--179, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{{McCallum}, {Freitag},\ \BBA\ {Pereira}}{{McCallum}
+  et~al.}{2000}]{mccallum2000maximum}
+{McCallum}, A., {Freitag}, D., \BBA\ {Pereira}, F.~C. \BBOP2000\BBCP.
+\newblock \BBOQ Maximum {Entropy} {Markov} {Models} for {Information}
+  {Extraction} and {Segmentation}.\BBCQ\
+\newblock In {\Bem {ICML}}, \lowercase{\BVOL}~17, \BPGS\ 591--598.
+
+\bibitem[\protect\BCAY{Mikolov, {Chen}, {Corrado},\ \BBA\ {Dean}}{Mikolov
+  et~al.}{2013}]{mikolov2013efficient}
+Mikolov, T., {Chen}, K., {Corrado}, G., \BBA\ {Dean}, J. \BBOP2013\BBCP.
+\newblock \BBOQ Efficient {Estimation} of {Word} {Representations} in {Vector}
+  {Space}\BBCQ\
+\newblock {\Bem {arXiv}:1301.3781 {[}cs]}.
+
+\bibitem[\protect\BCAY{Mikolov, {Joulin}, {Chopra}, {Mathieu},\ \BBA\
+  {Ranzato}}{Mikolov et~al.}{2014}]{mikolov2014learning}
+Mikolov, T., {Joulin}, A., {Chopra}, S., {Mathieu}, M., \BBA\ {Ranzato}, M.
+  \BBOP2014\BBCP.
+\newblock \BBOQ Learning {Longer} {Memory} in {Recurrent} {Neural}
+  {Networks}\BBCQ\
+\newblock {\Bem {arXiv}:1412.7753 {[}cs]}.
+
+\bibitem[\protect\BCAY{Mikolov, {Karafi}{\'a}t, {Burget}, {Cernocky},\ \BBA\
+  {Khudanpur}}{Mikolov et~al.}{2010}]{mikolov2010recurrent}
+Mikolov, T., {Karafi}{\'a}t, M., {Burget}, L., {Cernocky}, J., \BBA\
+  {Khudanpur}, S. \BBOP2010\BBCP.
+\newblock \BBOQ Recurrent neural network based language model.\BBCQ\
+\newblock In {\Bem {INTERSPEECH} 2010, 11th {Annual} {Conference} of the
+  {International} {Speech} {Communication} {Association}, {Makuhari}, {Chiba},
+  {Japan}, {September} 26-30, 2010}, \BPGS\ 1045--1048.
+
+\bibitem[\protect\BCAY{Mikolov, {Kombrink}, {Luk{\'a}{\v s} Burget}, {\v
+  C}ernocky,\ \BBA\ {Khudanpur}}{Mikolov et~al.}{2011}]{mikolov2011extensions}
+Mikolov, T., {Kombrink}, S., {Luk{\'a}{\v s} Burget}, {\v C}ernocky, J.~H.,
+  \BBA\ {Khudanpur}, S. \BBOP2011\BBCP.
+\newblock \BBOQ Extensions of recurrent neural network language model\BBCQ\
+\newblock In {\Bem Acoustics, {Speech} and {Signal} {Processing} ({ICASSP}),
+  2011 {IEEE} {International} {Conference} on}, \BPGS\ 5528--5531. {IEEE}.
+
+\bibitem[\protect\BCAY{Mikolov, {Sutskever}, {Chen}, {Corrado},\ \BBA\
+  {Dean}}{Mikolov et~al.}{2013}]{mikolov2013distributed}
+Mikolov, T., {Sutskever}, I., {Chen}, K., {Corrado}, G.~S., \BBA\ {Dean}, J.
+  \BBOP2013\BBCP.
+\newblock \BBOQ Distributed {Representations} of {Words} and {Phrases} and
+  their {Compositionality}\BBCQ\
+\newblock In Burges, C. J.~C., {Bottou}, L., {Welling}, M., {Ghahramani}, Z.,
+  \BBA\ {Weinberger}, K.~Q.\BEDS, {\Bem Advances in {Neural} {Information}
+  {Processing} {Systems} 26}, \BPGS\ 3111--3119. Curran {Associates}, {Inc}.
+
+\bibitem[\protect\BCAY{Mikolov}{Mikolov}{2012}]{mikolov2012statistical}
+Mikolov, T. \BBOP2012\BBCP.
+\newblock {\Bem Statistical language models based on neural networks}.
+\newblock Ph.D.\ thesis, Ph. {D}. thesis, {Brno} {University} of {Technology}.
+
+\bibitem[\protect\BCAY{Mnih\ \BBA\ {Kavukcuoglu}}{Mnih\ \BBA\
+  {Kavukcuoglu}}{2013}]{mnih2013learning}
+Mnih, A.\BBACOMMA\  \BBA\ {Kavukcuoglu}, K. \BBOP2013\BBCP.
+\newblock \BBOQ Learning word embeddings efficiently with noise-contrastive
+  estimation\BBCQ\
+\newblock In Burges, C. J.~C., {Bottou}, L., {Welling}, M., {Ghahramani}, Z.,
+  \BBA\ {Weinberger}, K.~Q.\BEDS, {\Bem Advances in {Neural} {Information}
+  {Processing} {Systems} 26}, \BPGS\ 2265--2273. Curran {Associates}, {Inc}.
+
+\bibitem[\protect\BCAY{Mrk{\v s}i{\'c}, {\'O}~{S}{\'e}aghdha, {Thomson},
+  {Gasic}, {Su}, {Vandyke}, {Wen},\ \BBA\ {Young}}{Mrk{\v s}i{\'c}
+  et~al.}{2015}]{mrksic2015multidomain}
+Mrk{\v s}i{\'c}, N., {\'O}~{S}{\'e}aghdha, D., {Thomson}, B., {Gasic}, M.,
+  {Su}, P.-H., {Vandyke}, D., {Wen}, T.-H., \BBA\ {Young}, S. \BBOP2015\BBCP.
+\newblock \BBOQ Multi-domain {Dialog} {State} {Tracking} using {Recurrent}
+  {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 794--799, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Neidinger}{Neidinger}{2010}]{neidinger2010introduction}
+Neidinger, R. \BBOP2010\BBCP.
+\newblock \BBOQ Introduction to {Automatic} {Differentiation} and {MATLAB}
+  {Object}-{Oriented} {Programming}\BBCQ\
+\newblock {\Bem {SIAM} {Review}}, {\Bem 52\/}(3), 545--563.
+
+\bibitem[\protect\BCAY{Nguyen\ \BBA\ {Grishman}}{Nguyen\ \BBA\
+  {Grishman}}{2015}]{nguyen2015event}
+Nguyen, T.~H.\BBACOMMA\  \BBA\ {Grishman}, R. \BBOP2015\BBCP.
+\newblock \BBOQ Event {Detection} and {Domain} {Adaptation} with
+  {Convolutional} {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 365--371, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Nivre}{Nivre}{2008}]{nivre2008algorithms}
+Nivre, J. \BBOP2008\BBCP.
+\newblock \BBOQ Algorithms for {Deterministic} {Incremental} {Dependency}
+  {Parsing}\BBCQ\
+\newblock {\Bem Computational {Linguistics}}, {\Bem 34\/}(4), 513--553.
+
+\bibitem[\protect\BCAY{Okasaki}{Okasaki}{1999}]{okasaki1999purely}
+Okasaki, C. \BBOP1999\BBCP.
+\newblock {\Bem Purely {Functional} {Data} {Structures}}.
+\newblock Cambridge {University} {Press}, Cambridge, {U}.{K}.; {New} {York}.
+
+\bibitem[\protect\BCAY{Pascanu, {Mikolov},\ \BBA\ {Bengio}}{Pascanu
+  et~al.}{2012}]{pascanu2012difficulty}
+Pascanu, R., {Mikolov}, T., \BBA\ {Bengio}, Y. \BBOP2012\BBCP.
+\newblock \BBOQ On the difficulty of training {Recurrent} {Neural}
+  {Networks}\BBCQ\
+\newblock {\Bem {arXiv}:1211.5063 {[}cs]}.
+
+\bibitem[\protect\BCAY{Pei, {Ge},\ \BBA\ {Chang}}{Pei
+  et~al.}{2015}]{pei2015effective}
+Pei, W., {Ge}, T., \BBA\ {Chang}, B. \BBOP2015\BBCP.
+\newblock \BBOQ An {Effective} {Neural} {Network} {Model} for {Graph}-based
+  {Dependency} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 313--322, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Pennington, {Socher},\ \BBA\ {Manning}}{Pennington
+  et~al.}{2014}]{pennington2014glove}
+Pennington, J., {Socher}, R., \BBA\ {Manning}, C. \BBOP2014\BBCP.
+\newblock \BBOQ Glove: {Global} {Vectors} for {Word} {Representation}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 1532--1543,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Pollack}{Pollack}{1990}]{pollack1990recursive}
+Pollack, J.~B. \BBOP1990\BBCP.
+\newblock \BBOQ Recursive {Distributed} {Representations}\BBCQ\
+\newblock {\Bem Artificial {Intelligence}}, {\Bem 46}, 77--105.
+
+\bibitem[\protect\BCAY{Polyak}{Polyak}{1964}]{polyak1964methods}
+Polyak, B.~T. \BBOP1964\BBCP.
+\newblock \BBOQ Some methods of speeding up the convergence of iteration
+  methods\BBCQ\
+\newblock {\Bem {USSR} {Computational} {Mathematics} and {Mathematical}
+  {Physics}}, {\Bem 4\/}(5), 1 -- 17.
+
+\bibitem[\protect\BCAY{Qian, {Tian}, {Huang}, {Liu}, {Zhu},\ \BBA\ {Zhu}}{Qian
+  et~al.}{2015}]{qian2015learning}
+Qian, Q., {Tian}, B., {Huang}, M., {Liu}, Y., {Zhu}, X., \BBA\ {Zhu}, X.
+  \BBOP2015\BBCP.
+\newblock \BBOQ Learning {Tag} {Embeddings} and {Tag}-specific {Composition}
+  {Functions} in {Recursive} {Neural} {Network}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1365--1374, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Rong}{Rong}{2014}]{rong2014word2vec}
+Rong, X. \BBOP2014\BBCP.
+\newblock \BBOQ word2vec {Parameter} {Learning} {Explained}\BBCQ\
+\newblock {\Bem {arXiv}:1411.2738 {[}cs]}.
+
+\bibitem[\protect\BCAY{Rumelhart, {Hinton},\ \BBA\ {Williams}}{Rumelhart
+  et~al.}{1986}]{rumelhart1986learning}
+Rumelhart, D.~E., {Hinton}, G.~E., \BBA\ {Williams}, R.~J. \BBOP1986\BBCP.
+\newblock \BBOQ Learning representations by back-propagating errors\BBCQ\
+\newblock {\Bem Nature}, {\Bem 323\/}(6088), 533--536.
+
+\bibitem[\protect\BCAY{Santos\ \BBA\ {Zadrozny}}{Santos\ \BBA\
+  {Zadrozny}}{2014}]{santos2014learning}
+Santos, C.~D.\BBACOMMA\  \BBA\ {Zadrozny}, B. \BBOP2014\BBCP.
+\newblock \BBOQ Learning {Character}-level {Representations} for
+  {Part}-of-{Speech} {Tagging}\BBCQ.
+\newblock \BPGS\ 1818--1826.
+
+\bibitem[\protect\BCAY{Schuster\ \BBA\ {Paliwal}}{Schuster\ \BBA\
+  {Paliwal}}{1997}]{schuster1997bidirectional}
+Schuster, M.\BBACOMMA\  \BBA\ {Paliwal}, K.~K. \BBOP1997\BBCP.
+\newblock \BBOQ Bidirectional recurrent neural networks\BBCQ\
+\newblock {\Bem {IEEE} {Transactions} on {Signal} {Processing}}, {\Bem
+  45\/}(11), 2673--2681.
+
+\bibitem[\protect\BCAY{Shawe-{Taylor}\ \BBA\ {Cristianini}}{Shawe-{Taylor}\
+  \BBA\ {Cristianini}}{2004}]{shawe-taylor2004kernel}
+Shawe-{Taylor}, J.\BBACOMMA\  \BBA\ {Cristianini}, N. \BBOP2004\BBCP.
+\newblock {\Bem Kernel {Methods} for {Pattern} {Analysis}}.
+\newblock Cambridge {University} {Press}.
+
+\bibitem[\protect\BCAY{Smith}{Smith}{2011}]{smith2011linguistic}
+Smith, N.~A. \BBOP2011\BBCP.
+\newblock {\Bem Linguistic {Structure} {Prediction}}.
+\newblock Synthesis {Lectures} on {Human} {Language} {Technologies}. Morgan and
+  {Claypool}.
+
+\bibitem[\protect\BCAY{Socher}{Socher}{2014}]{socher2014recursive}
+Socher, R. \BBOP2014\BBCP.
+\newblock {\Bem Recursive {Deep} {Learning} {For} {Natural} {Language}
+  {Processing} and {Computer} {Vision}}.
+\newblock Ph.D.\ thesis, Stanford {University}.
+
+\bibitem[\protect\BCAY{Socher, {Bauer}, {Manning},\ \BBA\ {Andrew}~{Y}.}{Socher
+  et~al.}{2013}]{socher2013parsing}
+Socher, R., {Bauer}, J., {Manning}, C.~D., \BBA\ {Andrew}~{Y}., N.
+  \BBOP2013\BBCP.
+\newblock \BBOQ Parsing with {Compositional} {Vector} {Grammars}\BBCQ\
+\newblock In {\Bem Proceedings of the 51st {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 455--465, Sofia, {Bulgaria}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Socher, {Huval}, {Manning},\ \BBA\ {Ng}}{Socher
+  et~al.}{2012}]{socher2012semantic}
+Socher, R., {Huval}, B., {Manning}, C.~D., \BBA\ {Ng}, A.~Y. \BBOP2012\BBCP.
+\newblock \BBOQ Semantic {Compositionality} through {Recursive}
+  {Matrix}-{Vector} {Spaces}\BBCQ\
+\newblock In {\Bem Proceedings of the 2012 {Joint} {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} and {Computational} {Natural}
+  {Language} {Learning}}, \BPGS\ 1201--1211, Jeju {Island}, {Korea}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Socher, {Lin}, {Ng},\ \BBA\ {Manning}}{Socher
+  et~al.}{2011}]{socher2011parsing}
+Socher, R., {Lin}, C. C.-Y., {Ng}, A.~Y., \BBA\ {Manning}, C.~D.
+  \BBOP2011\BBCP.
+\newblock \BBOQ Parsing {Natural} {Scenes} and {Natural} {Language} with
+  {Recursive} {Neural} {Networks}\BBCQ\
+\newblock In Getoor, L.\BBACOMMA\  \BBA\ {Scheffer}, T.\BEDS, {\Bem Proceedings
+  of the 28th {International} {Conference} on {Machine} {Learning}, {ICML}
+  2011, {Bellevue}, {Washington}, {USA}, {June} 28 - {July} 2, 2011}, \BPGS\
+  129--136. Omnipress.
+
+\bibitem[\protect\BCAY{Socher, {Manning},\ \BBA\ {Ng}}{Socher
+  et~al.}{2010}]{socher2010learning}
+Socher, R., {Manning}, C., \BBA\ {Ng}, A. \BBOP2010\BBCP.
+\newblock \BBOQ Learning {Continuous} {Phrase} {Representations} and
+  {Syntactic} {Parsing} with {Recursive} {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the {Deep} {Learning} and {Unsupervised}
+  {Feature} {Learning} {Workshop} of \{{NIPS}\} 2010}, \BPGS\ 1--9.
+
+\bibitem[\protect\BCAY{Socher, {Perelygin}, {Wu}, {Chuang}, {Manning}, {Ng},\
+  \BBA\ {Potts}}{Socher et~al.}{2013}]{socher2013recursive}
+Socher, R., {Perelygin}, A., {Wu}, J., {Chuang}, J., {Manning}, C.~D., {Ng},
+  A., \BBA\ {Potts}, C. \BBOP2013\BBCP.
+\newblock \BBOQ Recursive {Deep} {Models} for {Semantic} {Compositionality}
+  {Over} a {Sentiment} {Treebank}\BBCQ\
+\newblock In {\Bem Proceedings of the 2013 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1631--1642, Seattle,
+  {Washington}, {USA}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Sordoni, {Galley}, {Auli}, {Brockett}, {Ji}, {Mitchell},
+  {Nie}, {Gao},\ \BBA\ {Dolan}}{Sordoni et~al.}{2015}]{sordoni2015neural}
+Sordoni, A., {Galley}, M., {Auli}, M., {Brockett}, C., {Ji}, Y., {Mitchell},
+  M., {Nie}, J.-Y., {Gao}, J., \BBA\ {Dolan}, B. \BBOP2015\BBCP.
+\newblock \BBOQ {A} {Neural} {Network} {Approach} to {Context}-{Sensitive}
+  {Generation} of {Conversational} {Responses}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} of the {North}
+  {American} {Chapter} of the {Association} for {Computational} {Linguistics}:
+  {Human} {Language} {Technologies}}, \BPGS\ 196--205, Denver, {Colorado}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Sundermeyer, {Alkhouli}, {Wuebker},\ \BBA\
+  {Ney}}{Sundermeyer et~al.}{2014}]{sundermeyer2014translation}
+Sundermeyer, M., {Alkhouli}, T., {Wuebker}, J., \BBA\ {Ney}, H. \BBOP2014\BBCP.
+\newblock \BBOQ Translation {Modeling} with {Bidirectional} {Recurrent}
+  {Neural} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 14--25,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Sundermeyer, {Schl}{\"u}ter,\ \BBA\ {Ney}}{Sundermeyer
+  et~al.}{2012}]{sundermeyer2012lstm}
+Sundermeyer, M., {Schl}{\"u}ter, R., \BBA\ {Ney}, H. \BBOP2012\BBCP.
+\newblock \BBOQ {LSTM} {Neural} {Networks} for {Language} {Modeling}.\BBCQ\
+\newblock In {\Bem {INTERSPEECH}}.
+
+\bibitem[\protect\BCAY{Sutskever, {Martens}, {Dahl},\ \BBA\ {Hinton}}{Sutskever
+  et~al.}{2013}]{sutskever2013importance}
+Sutskever, I., {Martens}, J., {Dahl}, G., \BBA\ {Hinton}, G. \BBOP2013\BBCP.
+\newblock \BBOQ On the importance of initialization and momentum in deep
+  learning\BBCQ\
+\newblock In {\Bem Proceedings of the 30th international conference on machine
+  learning ({ICML}-13)}, \BPGS\ 1139--1147.
+
+\bibitem[\protect\BCAY{Sutskever, {Martens},\ \BBA\ {Hinton}}{Sutskever
+  et~al.}{2011}]{sutskever2011generating}
+Sutskever, I., {Martens}, J., \BBA\ {Hinton}, G.~E. \BBOP2011\BBCP.
+\newblock \BBOQ Generating text with recurrent neural networks\BBCQ\
+\newblock In {\Bem Proceedings of the 28th {International} {Conference} on
+  {Machine} {Learning} ({ICML}-11)}, \BPGS\ 1017--1024.
+
+\bibitem[\protect\BCAY{Sutskever, {Vinyals},\ \BBA\ {Le}}{Sutskever
+  et~al.}{2014}]{sutskever2014sequence}
+Sutskever, I., {Vinyals}, O., \BBA\ {Le}, Q. V.~V. \BBOP2014\BBCP.
+\newblock \BBOQ Sequence to {Sequence} {Learning} with {Neural}
+  {Networks}\BBCQ\
+\newblock In Ghahramani, Z., {Welling}, M., {Cortes}, C., {Lawrence}, N.~D.,
+  \BBA\ {Weinberger}, K.~Q.\BEDS, {\Bem Advances in {Neural} {Information}
+  {Processing} {Systems} 27}, \BPGS\ 3104--3112. Curran {Associates}, {Inc}.
+
+\bibitem[\protect\BCAY{Tai, {Socher},\ \BBA\ {Manning}}{Tai
+  et~al.}{2015}]{tai2015improved}
+Tai, K.~S., {Socher}, R., \BBA\ {Manning}, C.~D. \BBOP2015\BBCP.
+\newblock \BBOQ Improved {Semantic} {Representations} {From}
+  {Tree}-{Structured} {Long} {Short}-{Term} {Memory} {Networks}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1556--1566, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Tamura, {Watanabe},\ \BBA\ {Sumita}}{Tamura
+  et~al.}{2014}]{tamura2014recurrent}
+Tamura, A., {Watanabe}, T., \BBA\ {Sumita}, E. \BBOP2014\BBCP.
+\newblock \BBOQ Recurrent {Neural} {Networks} for {Word} {Alignment}
+  {Model}\BBCQ\
+\newblock In {\Bem Proceedings of the 52nd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1470--1480, Baltimore, {Maryland}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Tieleman\ \BBA\ {Hinton}}{Tieleman\ \BBA\
+  {Hinton}}{2012}]{tieleman2012lecture}
+Tieleman, T.\BBACOMMA\  \BBA\ {Hinton}, G. \BBOP2012\BBCP.
+\newblock \BBOQ Lecture 6.5---{RmsProp}: {Divide} the gradient by a running
+  average of its recent magnitude\BBCQ\
+\newblock COURSERA: Neural Networks for Machine Learning.
+
+\bibitem[\protect\BCAY{{Van de Cruys}}{{Van de
+  Cruys}}{2014}]{vandecruys2014neural}
+{Van de Cruys}, T. \BBOP2014\BBCP.
+\newblock \BBOQ {A} {Neural} {Network} {Approach} to {Selectional} {Preference}
+  {Acquisition}\BBCQ\
+\newblock In {\Bem Proceedings of the 2014 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing} ({EMNLP})}, \BPGS\ 26--35,
+  Doha, {Qatar}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Vaswani, {Zhao}, {Fossum},\ \BBA\ {Chiang}}{Vaswani
+  et~al.}{2013}]{vaswani2013decoding}
+Vaswani, A., {Zhao}, Y., {Fossum}, V., \BBA\ {Chiang}, D. \BBOP2013\BBCP.
+\newblock \BBOQ Decoding with {Large}-{Scale} {Neural} {Language} {Models}
+  {Improves} {Translation}\BBCQ\
+\newblock In {\Bem Proceedings of the 2013 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1387--1392, Seattle,
+  {Washington}, {USA}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Wager, {Wang},\ \BBA\ {Liang}}{Wager
+  et~al.}{2013}]{wager2013dropout}
+Wager, S., {Wang}, S., \BBA\ {Liang}, P.~S. \BBOP2013\BBCP.
+\newblock \BBOQ Dropout {Training} as {Adaptive} {Regularization}\BBCQ\
+\newblock In Burges, C. J.~C., {Bottou}, L., {Welling}, M., {Ghahramani}, Z.,
+  \BBA\ {Weinberger}, K.~Q.\BEDS, {\Bem Advances in {Neural} {Information}
+  {Processing} {Systems} 26}, \BPGS\ 351--359. Curran {Associates}, {Inc}.
+
+\bibitem[\protect\BCAY{Wang, {Xu}, {Xu}, {Liu}, {Zhang}, {Wang},\ \BBA\
+  {Hao}}{Wang et~al.}{2015a}]{wang2015semantic}
+Wang, P., {Xu}, J., {Xu}, B., {Liu}, C., {Zhang}, H., {Wang}, F., \BBA\ {Hao},
+  H. \BBOP2015a\BBCP.
+\newblock \BBOQ Semantic {Clustering} and {Convolutional} {Neural} {Network}
+  for {Short} {Text} {Categorization}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 352--357, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Wang, {Liu}, {SUN}, {Wang},\ \BBA\ {Wang}}{Wang
+  et~al.}{2015b}]{wang2015predicting}
+Wang, X., {Liu}, Y., {SUN}, C., {Wang}, B., \BBA\ {Wang}, X. \BBOP2015b\BBCP.
+\newblock \BBOQ Predicting {Polarities} of {Tweets} by {Composing} {Word}
+  {Embeddings} with {Long} {Short}-{Term} {Memory}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1343--1353, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Watanabe\ \BBA\ {Sumita}}{Watanabe\ \BBA\
+  {Sumita}}{2015}]{watanabe2015transitionbased}
+Watanabe, T.\BBACOMMA\  \BBA\ {Sumita}, E. \BBOP2015\BBCP.
+\newblock \BBOQ Transition-based {Neural} {Constituent} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1169--1179, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Weiss, {Alberti}, {Collins},\ \BBA\ {Petrov}}{Weiss
+  et~al.}{2015}]{weiss2015structured}
+Weiss, D., {Alberti}, C., {Collins}, M., \BBA\ {Petrov}, S. \BBOP2015\BBCP.
+\newblock \BBOQ Structured {Training} for {Neural} {Network}
+  {Transition}-{Based} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 323--333, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Werbos}{Werbos}{1990}]{werbos1990backpropagation}
+Werbos, P.~J. \BBOP1990\BBCP.
+\newblock \BBOQ Backpropagation through time: {What} it does and how to do
+  it.\BBCQ\
+\newblock {\Bem Proceedings of the {IEEE}}, {\Bem 78\/}(10), 1550 -- 1560.
+
+\bibitem[\protect\BCAY{Weston, {Bordes}, {Yakhnenko},\ \BBA\ {Usunier}}{Weston
+  et~al.}{2013}]{weston2013connecting}
+Weston, J., {Bordes}, A., {Yakhnenko}, O., \BBA\ {Usunier}, N. \BBOP2013\BBCP.
+\newblock \BBOQ Connecting {Language} and {Knowledge} {Bases} with {Embedding}
+  {Models} for {Relation} {Extraction}\BBCQ\
+\newblock In {\Bem Proceedings of the 2013 {Conference} on {Empirical}
+  {Methods} in {Natural} {Language} {Processing}}, \BPGS\ 1366--1371, Seattle,
+  {Washington}, {USA}. Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Xu, {Auli},\ \BBA\ {Clark}}{Xu et~al.}{2015}]{xu2015ccg}
+Xu, W., {Auli}, M., \BBA\ {Clark}, S. \BBOP2015\BBCP.
+\newblock \BBOQ {CCG} {Supertagging} with a {Recurrent} {Neural}
+  {Network}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 2:
+  {Short} {Papers})}, \BPGS\ 250--255, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Yin\ \BBA\ {Sch}{\"u}tze}{Yin\ \BBA\
+  {Sch}{\"u}tze}{2015}]{yin2015convolutional}
+Yin, W.\BBACOMMA\  \BBA\ {Sch}{\"u}tze, H. \BBOP2015\BBCP.
+\newblock \BBOQ Convolutional {Neural} {Network} for {Paraphrase}
+  {Identification}\BBCQ\
+\newblock In {\Bem Proceedings of the 2015 {Conference} of the {North}
+  {American} {Chapter} of the {Association} for {Computational} {Linguistics}:
+  {Human} {Language} {Technologies}}, \BPGS\ 901--911, Denver, {Colorado}.
+  Association for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Zaremba, {Sutskever},\ \BBA\ {Vinyals}}{Zaremba
+  et~al.}{2014}]{zaremba2014recurrent}
+Zaremba, W., {Sutskever}, I., \BBA\ {Vinyals}, O. \BBOP2014\BBCP.
+\newblock \BBOQ Recurrent {Neural} {Network} {Regularization}\BBCQ\
+\newblock {\Bem {arXiv}:1409.2329 {[}cs]}.
+
+\bibitem[\protect\BCAY{Zeiler}{Zeiler}{2012}]{zeiler2012adadelta}
+Zeiler, M.~D. \BBOP2012\BBCP.
+\newblock \BBOQ {ADADELTA}: {An} {Adaptive} {Learning} {Rate} {Method}\BBCQ\
+\newblock {\Bem {arXiv}:1212.5701 {[}cs]}.
+
+\bibitem[\protect\BCAY{Zeng, {Liu}, {Lai}, {Zhou},\ \BBA\ {Zhao}}{Zeng
+  et~al.}{2014}]{zeng2014relation}
+Zeng, D., {Liu}, K., {Lai}, S., {Zhou}, G., \BBA\ {Zhao}, J. \BBOP2014\BBCP.
+\newblock \BBOQ Relation {Classification} via {Convolutional} {Deep} {Neural}
+  {Network}\BBCQ\
+\newblock In {\Bem Proceedings of {COLING} 2014, the 25th {International}
+  {Conference} on {Computational} {Linguistics}: {Technical} {Papers}}, \BPGS\
+  2335--2344, Dublin, {Ireland}. Dublin {City} {University} and {Association}
+  for {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Zhou, {Zhang}, {Huang},\ \BBA\ {Chen}}{Zhou
+  et~al.}{2015}]{zhou2015neural}
+Zhou, H., {Zhang}, Y., {Huang}, S., \BBA\ {Chen}, J. \BBOP2015\BBCP.
+\newblock \BBOQ {A} {Neural} {Probabilistic} {Structured}-{Prediction} {Model}
+  for {Transition}-{Based} {Dependency} {Parsing}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1213--1222, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Zhu, {Qiu}, {Chen},\ \BBA\ {Huang}}{Zhu
+  et~al.}{2015a}]{zhu2015reranking}
+Zhu, C., {Qiu}, X., {Chen}, X., \BBA\ {Huang}, X. \BBOP2015a\BBCP.
+\newblock \BBOQ {A} {Re}-ranking {Model} for {Dependency} {Parser} with
+  {Recursive} {Convolutional} {Neural} {Network}\BBCQ\
+\newblock In {\Bem Proceedings of the 53rd {Annual} {Meeting} of the
+  {Association} for {Computational} {Linguistics} and the 7th {International}
+  {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long}
+  {Papers})}, \BPGS\ 1159--1168, Beijing, {China}. Association for
+  {Computational} {Linguistics}.
+
+\bibitem[\protect\BCAY{Zhu, {Sobhani},\ \BBA\ {Guo}}{Zhu
+  et~al.}{2015b}]{zhu2015long}
+Zhu, X., {Sobhani}, P., \BBA\ {Guo}, H. \BBOP2015b\BBCP.
+\newblock \BBOQ Long {Short}-{Term} {Memory} {Over} {Tree} {Structures}\BBCQ\
+\newblock {\Bem {arXiv}:1503.04881 {[}cs]}.
+
+\end{thebibliography}

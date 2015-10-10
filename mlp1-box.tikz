@@ -1,0 +1,60 @@
+\begin{tikzpicture}[node distance = 2.2cm, auto]
+%\usetikzlibrary{shapes.geometric,backgrounds,
+ % positioning-plus,node-families,calc}
+ \usetikzlibrary{shapes,snakes,arrows,fit}
+\tikzset{
+  base/.style={draw},
+  func/.style= {base,shape=ellipse},
+  param/.style= {base,shape=rectangle,fill=black!20,text width=1cm,align=center},
+  input/.style = {dashed,text width=1.5cm,align=center,font=\bf},
+grayed/.style = {draw=black!20,color=black!20}
+}
+ \node (x) [func,label=$1\times 150$]{$concat$};
+\node(lookup)[func,below left of=x,label=$1\times50$] {lookup};
+\node(lookup1)[func,right of=lookup,label=$1\times50$] {lookup};
+\node(lookup2)[func,right of=lookup1,label=$1\times50$] {lookup};
+\node(the) [input,below of=lookup] {``the''};
+\node(black) [input,right of=the] {``black''};
+\node(dog) [input,right of=black] {``dog''};
+\node(vocab)[param,label=$|V|\times50$,right of=dog] {$\mathbf{E}$};
+ \draw[-latex'] (lookup) -> (x);
+ \draw[-latex'] (lookup1) -> (x);
+ \draw[-latex'] (lookup2) -> (x);
+ \draw[-latex'] (the) -> (lookup);
+ \draw[-latex'] (black) -> (lookup1);
+ \draw[-latex'] (dog) -> (lookup2);
+ \draw[-latex'] (vocab) -> (lookup);
+ \draw[-latex'] (vocab) -> (lookup1);
+ \draw[-latex'] (vocab) -> (lookup2);
+
+
+ \node (W1) [param,right of=x,label=$150\times 20$]{$\mathbf{W^1}$};
+ \node (mul1) [func,grayed,above of=x,label={\color{black!20}$1\times 20$}] {MUL};
+ \node(add1) [func,grayed,above of=mul1,label={\color{black!20}$1\times 20$}] {ADD};
+ \node (b1) [param,right of=W1,label=$1\times 20$] {$\mathbf{b^1}$};
+ \node(tanh1) [func,grayed,above of=add1,label={\color{black!20}$1\times 20$}] {$tanh$};
+ \draw[-latex'] (x) -> (mul1);
+ \draw[-latex'] (W1) -> (mul1);
+\draw[-latex',grayed] (mul1) -> (add1);
+ \draw[-latex'] (b1) -> (add1);
+ \draw[-latex',grayed] (add1) -> (tanh1);
+ \node (W2) [param,right of =tanh1,label=$20\times 17$] {$\mathbf{W^2}$};
+ \node (b2) [param,right of =W2,label=$1\times 17$] {$\mathbf{b^2}$};
+ \node (mul2) [func,grayed,above of=tanh1,label={\color{black!20}$1\times 17$}] {MUL};
+ \node(add2) [func,grayed,above of=mul2,label=$1\times 17$] {ADD};
+ \draw[-latex'] (W2) -> (mul2) ;
+ \draw[-latex',grayed] (mul2) -> (add2);
+ \draw[-latex'] (b2) -> (add2);
+ \draw[-latex',grayed] (tanh1) -> (mul2);
+\node(softmax) [func,above of=add2,label=$1\times 17$] {softmax};
+\node(pick) [func,above right of=softmax,label=$1\times1$] {pick};
+\node(five) [input,below right of=pick] {5};
+\node(log) [func,above right of=pick,label=$1\times1$] {log};
+\node(neg) [func,above right of=log,label=$1\times1$] {neg};
+ \draw[-latex'] (add2) -> (softmax);
+ \draw[-latex'] (softmax) -> (pick);
+ \draw[-latex'] (five) -> (pick);
+ \draw[-latex'] (pick) -> (log);
+ \draw[-latex'] (log) -> (neg);
+\node[draw,dashed,thick=5,fit=(mul1) (add2)] {$\mathbf{MLP_1}$};
+ \end{tikzpicture}
