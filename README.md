@@ -1,5 +1,5 @@
-A Primer on Neural Network Models for Natural Language Processing
-=================================================================
+Yoav Goldberg: A Primer on Neural Network Models for Natural Language Processing
+================================================================================
 
 * Original PDF: http://u.cs.biu.ac.il/~yogo/nnlp.pdf
 * HTML: http://pquentin.github.io/nnlp/nnlp.html
